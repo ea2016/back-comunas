@@ -1,0 +1,3 @@
+INSERT INTO usuarios (id_usuario,clave,nombre, apellido,rol,telefono,correo,direccion) VALUES ('easj','1234','Enrique','Suarez','admin','04125663237','enrique@gmail.com','Caracas');
+INSERT INTO usuarios (id_usuario,clave,nombre, apellido,rol,telefono,correo,direccion) VALUES ('jcrm','1234','Jhoanna','Romera','admin','04125663237','jhoanna@gmail.com','Caracas');
+INSERT INTO usuarios (id_usuario,clave,nombre, apellido,rol,telefono,correo,direccion) VALUES ('gamc','1234','Gustavo','Marin','admin','04125663237','Gustavo@gmail.com','Caracas');
