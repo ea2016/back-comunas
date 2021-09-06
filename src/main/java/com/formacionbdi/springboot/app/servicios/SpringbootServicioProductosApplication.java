@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.productos;
+package com.formacionbdi.springboot.app.servicios;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
